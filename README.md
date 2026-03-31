@@ -16,7 +16,7 @@ I’ve worked across different industries - finance, sports, travel, retail, and
 - **Analytics:** Tableau, Power BI, Alteryx  
 - **Design:** Figma, Canva, Balsamiq
 
-## 📜 Certifications
+## 📜 Badges & Certifications
 <a href="https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=48teLK8g1UQ9FfoRyPSbjVTI1viHsq6a4KkMmxL3w9y7N0gzcNEeXy29yzzruIjy">
   <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAEbJ&oid=00DF0000000gZsu&lastMod=1746778793000" width="15%">
 </a>
@@ -46,10 +46,10 @@ I’ve worked across different industries - finance, sports, travel, retail, and
 
 ## 🎓 Education
 **MSc in Human-Computer Interactions** - University of St Andrew's
-*Distinction*
+- Distinction
 
 **MA (Hons) in Psychology** - University of Glasgow
-*First Class*
+- First Class
 
 <!--
 
