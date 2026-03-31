@@ -33,11 +33,11 @@ I’ve worked across different industries - finance, sports, travel, retail, and
 <a href="https://achieve.snowflake.com/b76e0efa-bedd-4555-9592-5f6e945c1677#acc.Xn6uywYF">
   <img src="https://images.credential.net/badge/medium/8lyqkeiy_1761666224832_badge.png" width="15%">
 </a>
-<a href="https://achieve.snowflake.com/02c57351-b611-4712-84f8-a70f7ee19f52#acc.NsaGnXWU">
-  <img src="https://images.credential.net/badge/medium/j57rw7pd_1761816359574_badge.png" width="15%">
-</a>
 <a href="https://achieve.snowflake.com/df9bc16b-380e-4a22-bb89-d8f17be576d2#acc.P8J2nxoC">
   <img src="https://images.credential.net/badge/medium/6l6ckaii_1762270929807_badge.png" width="15%">
+</a>
+<a href="https://achieve.snowflake.com/02c57351-b611-4712-84f8-a70f7ee19f52#acc.NsaGnXWU">
+  <img src="https://images.credential.net/badge/medium/j57rw7pd_1761816359574_badge.png" width="15%">
 </a>
 <a href="https://achieve.snowflake.com/b76e0efa-bedd-4555-9592-5f6e945c1677#acc.BUJ8bFOq">
   <img src="https://images.credential.net/badge/medium/8lyqkeiy_1761666224832_badge.png" width="15%">
