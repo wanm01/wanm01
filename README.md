@@ -1,6 +1,8 @@
 ## Hi there, I'm Mandy! 👋🐏
 
-I’m a **data consultant** passionate about making data accessible and actionable. With a background in psychology and human–computer interaction, I bring together experience in data analysis, UX research, and data visualisation to turn insights into impact. I’ve worked across different industries - finance, sports, travel, retail, and education - building dashboards, analysing trends, and helping teams make smarter decisions. 
+I’m a **data consultant** passionate about making data accessible and actionable. With a background in psychology and human–computer interaction, I bring together experience in data analysis, UX research, and data visualisation to turn insights into impact. 
+
+I’ve worked across different industries - finance, sports, travel, retail, and education - building dashboards, analysing trends, and helping teams make smarter decisions. 
 
 ## 🗣️ Connect with Me
 
@@ -26,6 +28,19 @@ I’m a **data consultant** passionate about making data accessible and actionab
 </a>
 <a href="https://learn.microsoft.com/en-gb/users/mandywan-6034/credentials/dc5130ebe7280a2c?ref=https%3A%2F%2Fwww.linkedin.com%2F">
   <img src="https://learn.microsoft.com/en-gb/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="15%">
+</a>
+
+<a href="https://achieve.snowflake.com/b76e0efa-bedd-4555-9592-5f6e945c1677#acc.Xn6uywYF">
+  <img src="https://images.credential.net/badge/medium/8lyqkeiy_1761666224832_badge.png" width="15%">
+</a>
+<a href="https://achieve.snowflake.com/02c57351-b611-4712-84f8-a70f7ee19f52#acc.NsaGnXWU">
+  <img src="https://images.credential.net/badge/medium/j57rw7pd_1761816359574_badge.png" width="15%">
+</a>
+<a href="https://achieve.snowflake.com/df9bc16b-380e-4a22-bb89-d8f17be576d2#acc.P8J2nxoC">
+  <img src="https://images.credential.net/badge/medium/6l6ckaii_1762270929807_badge.png" width="15%">
+</a>
+<a href="https://achieve.snowflake.com/b76e0efa-bedd-4555-9592-5f6e945c1677#acc.BUJ8bFOq">
+  <img src="https://images.credential.net/badge/medium/8lyqkeiy_1761666224832_badge.png" width="15%">
 </a>
 
 
