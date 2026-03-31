@@ -1,12 +1,6 @@
-## Hi there, I'm Mandy 👋🐏
-
----
+## Hi there, I'm Mandy! 👋🐏
 
 I’m a **data consultant** passionate about making data accessible and actionable. With a background in psychology and human–computer interaction, I bring together experience in data analysis, UX research, and data visualisation to turn insights into impact. I’ve worked across different industries - finance, sports, travel, retail, and education - building dashboards, analysing trends, and helping teams make smarter decisions. 
-
-**Academic background**
-- Master of Science in Human-Computer Interacton, University of St Andrews (Distinction)
-- MA (Hons) in Psychology, University of Glasgow (1st Class)
 
 ## 🗣️ Connect with Me
 
@@ -19,6 +13,13 @@ I’m a **data consultant** passionate about making data accessible and actionab
 - **Programming:** JavaScript, R, SQL  
 - **Analytics:** Tableau, Power BI, Alteryx  
 - **Design:** Figma, Canva, Balsamiq
+
+## 🎓 Education
+**MSc in Human-Computer Interactions** - University of St Andrew's
+Distinction 
+
+**MA (Hons) in Psychology** - University of Glasgow
+First Class
 
 <!--
 
