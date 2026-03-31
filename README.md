@@ -14,16 +14,20 @@ I’m a **data consultant** passionate about making data accessible and actionab
 - **Analytics:** Tableau, Power BI, Alteryx  
 - **Design:** Figma, Canva, Balsamiq
 
+## 📜 Certifications
+<a href="https://www.salesforce.com/trailblazer/y7ac2el3cs1ekhr8iu">
+  <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAEbJ&oid=00DF0000000gZsu&lastMod=1746778793000" width="19%">
+</a>
+
 ## 🎓 Education
 **MSc in Human-Computer Interactions** - University of St Andrew's
-Distinction 
+*Distinction*
 
 **MA (Hons) in Psychology** - University of Glasgow
-First Class
+*First Class*
 
 <!--
 
-## 📜 Certifications
 
 **wanm01/wanm01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
