@@ -8,7 +8,7 @@ I’ve worked across different industries - finance, sports, travel, retail, and
 
 - **LinkedIn**: https://www.linkedin.com/in/mandywan-01/
 - **Tableau Public**: https://public.tableau.com/app/profile/mandy.wan
-- **The Information Lab/The Data School** https://www.thedataschool.co.uk/blog/mandy-wan/
+- **The Information Lab/The Data School**: https://www.thedataschool.co.uk/blog/mandy-wan/
 
 ## 🔨 Skills & Certifications
 
