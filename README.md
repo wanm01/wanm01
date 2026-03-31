@@ -45,11 +45,8 @@ I’ve worked across different industries - finance, sports, travel, retail, and
 
 
 ## 🎓 Education
-**MSc in Human-Computer Interactions** - University of St Andrew's
-- Distinction
-
-**MA (Hons) in Psychology** - University of Glasgow
-- First Class
+- **MSc in Human-Computer Interactions** - University of St Andrew's
+- **MA (Hons) in Psychology** - University of Glasgow
 
 <!--
 
